@@ -44,3 +44,4 @@
 
 theme = "Monokai Pro Ristretto"
 command = tmux
+cursor-text = "#2c2525"
